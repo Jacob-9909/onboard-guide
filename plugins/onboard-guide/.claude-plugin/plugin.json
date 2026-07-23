@@ -1,7 +1,7 @@
 {
   "name": "onboard-guide",
   "description": "레포지토리를 분석해 신규 투입자용 인터랙티브 온보딩 문서(onboarding.html)를 자동 생성합니다. 디렉토리 구조, 실행 파이프라인, 핵심 모듈, 추천 학습 경로를 클릭형 HTML로 시각화합니다.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Jacob"
   }
